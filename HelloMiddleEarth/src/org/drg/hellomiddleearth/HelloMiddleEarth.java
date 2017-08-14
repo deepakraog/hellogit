@@ -4,7 +4,7 @@ public class HelloMiddleEarth {
 
 	public static void main(String[] args) {
 
-		String[] names = {"Bilbo","Frodo","Aragon","Legolas","Gandalf"};
+		String[] names = {"Bilbo","Frodo","Aragon","Legolas","Gandalf","lola"};
 		
 		//print Greetings to the fine folks in Middle Earth
 		for(String name : names){
